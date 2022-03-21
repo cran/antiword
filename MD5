@@ -1,6 +1,6 @@
-985a3887889f755b03907d6e3393b832 *DESCRIPTION
+ec9b8568902925eb43faf873c9a20fab *DESCRIPTION
 c82baa20d4c1ca026b2af3b90be2b09f *NAMESPACE
-ee52ba0042ac309dfa1c712ab10d4208 *NEWS
+812d0fe8dd4ddaadb8862f7e79cdfcc1 *NEWS
 7ad8febedc1cff52e05515314aff9ce4 *R/antiword.R
 09069be0f25a7e35bf0af196c53897a3 *man/antiword.Rd
 2091e0fb93e456be6b1d154f5b73bdde *src/Makevars
@@ -39,7 +39,7 @@ d6ff305d3b288093170475b536d6ce8b *src/libantiword/main_ros.c
 fa4d36d30fe82b6335cd4d1724ac7d7a *src/libantiword/main_u.c
 8ee1774c4dee744125cb852591a61fae *src/libantiword/misc.c
 9e5ee9d44ceb504628e9f2b44cc1a5f1 *src/libantiword/notes.c
-ea779a864a6b27170400b5cc224772b6 *src/libantiword/options.c
+211bbf2f0737ac17b8c52c40d864caeb *src/libantiword/options.c
 37b83a1dce752612d9036ae100ef1c77 *src/libantiword/out2window.c
 042644e9252649af8862dcc551adef1e *src/libantiword/output.c
 63af0f0e9d8a5b5465ec21b74d18d4d8 *src/libantiword/pdf.c
