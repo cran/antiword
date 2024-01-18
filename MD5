@@ -1,9 +1,10 @@
-ec9b8568902925eb43faf873c9a20fab *DESCRIPTION
+3c71d4bb57edb8d8f5cf1fadd4a33a4c *DESCRIPTION
 c82baa20d4c1ca026b2af3b90be2b09f *NAMESPACE
-812d0fe8dd4ddaadb8862f7e79cdfcc1 *NEWS
+ed17bc40b0e05b4af411164e46f6c4a1 *NEWS
 7ad8febedc1cff52e05515314aff9ce4 *R/antiword.R
 09069be0f25a7e35bf0af196c53897a3 *man/antiword.Rd
-2091e0fb93e456be6b1d154f5b73bdde *src/Makevars
+08638f276a73bd0c661030593f6e7099 *src/Makevars
+99ea2361fe06bb8cd6ca776b5d9f7776 *src/install.libs.R
 790364ddad4ec3a52f1fa26cb4e741a9 *src/libantiword/antiword.h
 5aa71770e6ccc98c941645eef3cfb5f5 *src/libantiword/asc85enc.c
 9efa124c46e1e63d8092f8652df567f9 *src/libantiword/blocklist.c
@@ -76,7 +77,6 @@ c39db97c878cc542da39ac9febc068e7 *src/libantiword/wordmac.c
 e3dea19761319e8ead45832a2337d609 *src/libantiword/wordwin.c
 c6cd6a3a419a453e98c543b2893772e8 *src/libantiword/xmalloc.c
 593719ad6fd89deefdc58a0489a971ee *src/libantiword/xml.c
-e34405dc3e24e8466bdc8f3bb0bb2760 *src/register.c
 12e09bd6c9c501b55e0f27acaf60c672 *src/share/antiword/8859-1.txt
 1756fe8a4076a0acbaa84f31f73a5e18 *src/share/antiword/8859-10.txt
 52f00f158b1b3554d4a2a0924f6de3d5 *src/share/antiword/8859-11.txt
