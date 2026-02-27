@@ -1,9 +1,9 @@
-ba30d842ccfc6c1ef4dcb890360b55c5 *DESCRIPTION
+2f780a82b05fd120869456271b02ffd5 *DESCRIPTION
 c82baa20d4c1ca026b2af3b90be2b09f *NAMESPACE
-ed17bc40b0e05b4af411164e46f6c4a1 *NEWS
+083c01030ffcabdbca3b21243afd8fa0 *NEWS
 3d3398a669433d838e5361985987acf2 *R/antiword.R
 09069be0f25a7e35bf0af196c53897a3 *man/antiword.Rd
-b2251a77ad86e2205af720865b821d67 *src/Makevars
+75031fa232c2119fd88301dfd5c8e5a9 *src/Makevars
 99ea2361fe06bb8cd6ca776b5d9f7776 *src/install.libs.R
 790364ddad4ec3a52f1fa26cb4e741a9 *src/libantiword/antiword.h
 5aa71770e6ccc98c941645eef3cfb5f5 *src/libantiword/asc85enc.c
